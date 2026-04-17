@@ -13,7 +13,7 @@ PyTorch CNN implementation for MNIST digit classification.
 - Test Accuracy: ~99%
 - Model weights saved in `saved_models/`
 
-  mnist-cnn/
+'mnist-cnn/
 │── model.py              # CNN class
 │── train.py              # training code
 │── predict.py            # prediction script
@@ -22,6 +22,6 @@ PyTorch CNN implementation for MNIST digit classification.
 │── plots/
 │     ├── loss.png
 │     ├── accuracy.png
-│── README.md
+│── README.md'
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f7f4e742-e05d-440e-8416-b35d34367639" />
