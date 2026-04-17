@@ -15,13 +15,13 @@ PyTorch CNN implementation for MNIST digit classification.
 
 ```
 /content/saved_models
-├── accuracy_plot.png
-├── best_model.pth
-├── classification_report.txt
-├── final_model_weights.pth
-├── full_model.pth
-├── loss_plot.png
-└── mnist_cnn_complete.pth
+├── accuracy_plot.png           # Training vs validation accuracy curves
+├── loss_plot.png               # Training vs validation loss curves
+├── classification_report.txt   # Class-wise precision, recall, F1-score
+├── best_model.pth              # Checkpoint for resuming training
+├── final_model_weights.pth     # Trained weights for inference/prediction
+├── full_model.pth              # Complete model object
+└── mnist_cnn_complete.pth      # Weights with metadata
 ```
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f7f4e742-e05d-440e-8416-b35d34367639" />
