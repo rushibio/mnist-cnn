@@ -1,4 +1,3 @@
-<img width="841" height="490" alt="image" src="https://github.com/user-attachments/assets/e546f84f-2751-452e-aa63-17ef804a8d7b" /># MNIST CNN Classifier
 
 PyTorch CNN implementation for MNIST digit classification.
 
@@ -13,4 +12,4 @@ PyTorch CNN implementation for MNIST digit classification.
 ## Results
 - Test Accuracy: ~99%
 - Model weights saved in `saved_models/`
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/f7f4e742-e05d-440e-8416-b35d34367639" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f7f4e742-e05d-440e-8416-b35d34367639" />
